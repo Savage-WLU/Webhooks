@@ -1,2 +1,2 @@
 # Webhooks
-Webhooks for Discord
+Kill me.
